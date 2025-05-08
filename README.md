@@ -57,5 +57,3 @@ Seleccione una de las siguientes opciones:
 El fichero de alumnos tendrá un formato similar:
 123456789X#Carlos#Ruiz Tercero
 987654321Y#Pedro#Menéndez Quemado
-
-Autor: Desarrollado para Ies L'estació, Ontinyent (Valencia).
