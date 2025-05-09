@@ -83,4 +83,9 @@ public class centro implements Icentro {
         funciones.recuperarAlumnos(alumnos);
     }
 
+    @Override
+    public void asignarExamen(alumno a, examen e) {
+        funciones.aisgnarExamenAlumno(a, e);
+    }
+
 }

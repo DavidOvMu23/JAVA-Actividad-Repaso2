@@ -38,7 +38,7 @@ public class APPCentroEducativo {
                     break;
 
                 case 3:
-
+                    centr.asignarExamen(clumn, examenEscrit);
                     break;
 
                 case 4:

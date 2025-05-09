@@ -10,4 +10,6 @@ public interface Icentro {
 
     public void cargarAlumnos();
 
+    public void asignarExamen(alumno a, examen e);
+
 }
