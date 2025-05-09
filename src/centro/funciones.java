@@ -129,11 +129,7 @@ public class funciones {
                 String linea = br.readLine();
                 String[] datos = linea.split("#");
 
-                String DNI = datos[0];
-                String nombre = datos[1];
-                String apellidos = datos[2];
-
-                alumno nuevoAlumno = new alumno(DNI, nombre, apellidos);
+                alumno nuevoAlumno = new alumno(datos[0], datos[1], datos[2]);
                 alumnos.add(nuevoAlumno);
             }
         } catch (Exception e) {
